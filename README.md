@@ -48,7 +48,7 @@
 - 当然我在扯淡 <http://www.yinwang.org/>  
 
 #### 传送门  
-- 在线评测系统    
-- 工作时用到  
-- 玩游戏学编程  
-- 框架学习  
+- [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)  
+- [工作时用到](https://github.com/OctopusLian/CS-Resources/tree/master/Work)  
+- [玩游戏学编程](https://github.com/OctopusLian/CS-Resources/tree/master/Game)  
+- [框架学习](https://github.com/OctopusLian/CS-Resources/tree/master/Framework)  
