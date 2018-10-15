@@ -4,17 +4,22 @@
 - Go指南 <https://tour.go-zh.org/list>  
 - Go语言中文网 <https://studygolang.com/>  
 - Go语言圣经 <https://www.kancloud.cn/hartnett/gopl-zh/126045>  
+- Golang标准库文档 <https://studygolang.com/pkgdoc>  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
+
+#### Python语言学习  
+- Python之禅--大道至简 <http://www.pythontip.com/>  
 
 #### 数据结构与算法  
 - 动画展示各种路径搜索算法 <http://www.webhek.com/post/pathfinding.html>  
 - 数据结构和算法动态可视化 <https://visualgo.net/zh>  
 
 #### DirectX学习  
-- DirectX Tutorial <http://www.directxtutorial.com/default.aspx>  
-- DirectX SDK文档  
+- DirectX Tutorial <http://www.directxtutorial.com/>（需付费）   <http://www.directxtutorial.com/default.aspx>  
+- DirectX SDK文档（需自行下载）  
+- rastertek <http://www.rastertek.com/>  （DX10-11-12）  
 
 #### OpenGL学习  
 - 欢迎来到OpenGL的世界 <https://learnopengl-cn.github.io/>  
@@ -25,6 +30,9 @@
 
 #### Linux学习  
 - <https://www.die.net/>  
+
+#### 问答  
+- Stackoverflow <https://stackoverflow.com/>  
 
 #### 实用的教程  
 - 菜鸟教程 <http://www.runoob.com/>  
@@ -37,3 +45,10 @@
 - 酷壳 左耳朵耗子 <https://coolshell.cn/>  
 - 陈立杰 <http://wjmzbmr.com/>  
 - 飞雪无情 <http://www.flysnow.org/>  
+- 当然我在扯淡 <http://www.yinwang.org/>  
+
+#### 传送门  
+- 在线评测系统    
+- 工作时用到  
+- 玩游戏学编程  
+- 框架学习  
