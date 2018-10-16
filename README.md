@@ -17,7 +17,7 @@
 - 数据结构和算法动态可视化 <https://visualgo.net/zh>  
 
 #### DirectX学习  
-- DirectX Tutorial <http://www.directxtutorial.com/>（需付费）   <http://www.directxtutorial.com/default.aspx>  
+- DirectX Tutorial <http://www.directxtutorial.com/>（需付费）   
 - DirectX SDK文档（需自行下载）  
 - rastertek <http://www.rastertek.com/>  （DX10-11-12）  
 
@@ -27,6 +27,7 @@
 #### Shader相关  
 - <https://www.shadertoy.com/>  
 - <https://thebookofshaders.com/>  
+- The Book of Shaders <https://thebookofshaders.com/>  
 
 #### Linux学习  
 - <https://www.die.net/>  
@@ -41,11 +42,13 @@
 - 廖雪峰的官方网站 <https://www.liaoxuefeng.com/>  
 
 #### 大佬博客和网站  
-- Demon·Gan 恶魔的世界 <http://www.demongan.com/>  
+- Demon·Gan 恶魔的世界<http://www.demongan.com/>（信息安全）  
 - 酷壳 左耳朵耗子 <https://coolshell.cn/>  
 - 陈立杰 <http://wjmzbmr.com/>  
 - 飞雪无情 <http://www.flysnow.org/>  
 - 当然我在扯淡 <http://www.yinwang.org/>  
+- 雷霄骅 <https://blog.csdn.net/leixiaohua1020>（视音频编解码）  
+- Song Ho Ahn <http://www.songho.ca/>  
 
 #### 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)  
