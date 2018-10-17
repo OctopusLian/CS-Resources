@@ -1,4 +1,4 @@
-## 计算机学习资源汇总  
+﻿## 计算机学习资源汇总  
 记录我学习计算机相关技术遇到的很不错的网站  
 #### Go语言学习  
 - Go指南 <https://tour.go-zh.org/list>  
@@ -57,4 +57,4 @@
 - [框架学习](https://github.com/OctopusLian/CS-Resources/tree/master/Framework)  
 - [英语学习](https://github.com/OctopusLian/CS-Resources/tree/master/English)  
 - [前沿资讯](https://github.com/OctopusLian/CS-Resources/tree/master/News)  
-- [实用的手机APP]()
+- [实用的手机APP](https://github.com/OctopusLian/CS-Resources/tree/master/PhoneAPP)  
