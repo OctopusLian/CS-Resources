@@ -56,4 +56,5 @@
 - [玩游戏学编程](https://github.com/OctopusLian/CS-Resources/tree/master/Game)  
 - [框架学习](https://github.com/OctopusLian/CS-Resources/tree/master/Framework)  
 - [英语学习](https://github.com/OctopusLian/CS-Resources/tree/master/English)  
-- [前沿资讯](https://github.com/OctopusLian/CS-Resources/tree/master/News)
+- [前沿资讯](https://github.com/OctopusLian/CS-Resources/tree/master/News)  
+- [实用的手机APP]()
