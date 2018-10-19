@@ -49,6 +49,7 @@
 - 当然我在扯淡 <http://www.yinwang.org/>  
 - 雷霄骅 <https://blog.csdn.net/leixiaohua1020>（视音频编解码）  
 - Song Ho Ahn <http://www.songho.ca/>  
+- 阮一峰的网络日志 <http://www.ruanyifeng.com/blog/>  
 
 #### 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)  
