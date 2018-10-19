@@ -58,4 +58,5 @@
 - [英语学习](https://github.com/OctopusLian/CS-Resources/tree/master/English)  
 - [前沿资讯](https://github.com/OctopusLian/CS-Resources/tree/master/News)  
 - [实用的手机APP](https://github.com/OctopusLian/CS-Resources/tree/master/PhoneAPP)  
-- [各编程语言编辑器](https://github.com/OctopusLian/CS-Resources/tree/master/Compiler)  
+- [编程语言编辑器](https://github.com/OctopusLian/CS-Resources/tree/master/Compiler)  
+- [书籍](https://github.com/OctopusLian/CS-Resources/tree/master/Book)  
