@@ -27,13 +27,15 @@
 - 啊哈算法（C语言）  
 - 算法图解（Python语言）  
 #### 竞赛算法  
-- 挑战程序设计竞赛  
+- 挑战程序设计竞赛1
+- 挑战程序设计竞赛2 数据结构与算法    
 - [算法艺术与信息学竞赛](https://book.douban.com/subject/1154204/)  
 - [算法竞赛入门经典（第2版）](https://book.douban.com/subject/25902102/)  
 #### 面试算法  
 - 剑指offer  
 - 编程之美：微软技术面试心得  
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解  
+- 程序员面试金典  
 #### 计算机图形学理论  
 - [计算机图形学OpenGL版](https://book.douban.com/subject/3561816/)  
 - [交互式计算机图形学](https://book.douban.com/subject/10777165/)  
