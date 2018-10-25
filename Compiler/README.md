@@ -29,3 +29,7 @@
 - Visual Studio  
 #### Lua  
 - Lua for windows  
+#### Qt  
+- Qt编程指南 <https://qtguide.ustclug.org/contents.htm>  
+- Qt快速入门系列教程 <http://shouce.jb51.net/qt-beginning/>  
+- 官网 <https://www.qt.io/>  
