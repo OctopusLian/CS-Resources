@@ -9,3 +9,6 @@
 - webgraphviz <http://www.webgraphviz.com/>  
 #### 图片素材  
 - 花瓣网 <http://huaban.com/>  
+#### 统计访问数据  
+- flagcounter.com <http://www.flagcounter.com/>  
+- statcounter <http://statcounter.com/>  
