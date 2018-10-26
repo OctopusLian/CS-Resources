@@ -21,18 +21,18 @@
 - [Go程序设计语言](https://book.douban.com/subject/27044219/)  
 - Go并发编程实战  
 #### 数据结构与算法  
-- 算法第四版  
+- 算法第四版（Java语言实现）  
 - 算法导论  
 - 数据结构与算法分析  
-- 啊哈算法（C语言）  
-- 算法图解（Python语言）  
+- 啊哈算法（C语言实现）  
+- 算法图解（Python语言实现）  
 #### 竞赛算法  
-- 挑战程序设计竞赛1
-- 挑战程序设计竞赛2 数据结构与算法    
+- 挑战程序设计竞赛1（C/C++实现）  
+- 挑战程序设计竞赛2 数据结构与算法（C/C++实现）    
 - [算法艺术与信息学竞赛](https://book.douban.com/subject/1154204/)  
 - [算法竞赛入门经典（第2版）](https://book.douban.com/subject/25902102/)  
 #### 面试算法  
-- 剑指offer  
+- 剑指offer（第2版）  
 - 编程之美：微软技术面试心得  
 - 程序员代码面试指南：IT名企算法与数据结构题目最优解  
 - 程序员面试金典  
@@ -40,8 +40,8 @@
 - [计算机图形学OpenGL版](https://book.douban.com/subject/3561816/)  
 - [交互式计算机图形学](https://book.douban.com/subject/10777165/)  
 #### OpenGL学习  
-- [OpenGL编程指南（第9版）](https://book.douban.com/subject/27123094/)  
-- [OpenGL超级宝典](https://book.douban.com/subject/5273949/)  
+- OpenGL Programming Guide 9th Edition（推荐英文原版）  
+- [OpenGL超级宝典 第五版](https://book.douban.com/subject/5273949/)  
 #### DirectX学习  
 - [Introduction to 3D Game Programming With DirectX11](https://book.douban.com/subject/10541097/)  
 #### Unity学习  

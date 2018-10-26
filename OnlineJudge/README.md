@@ -16,4 +16,5 @@
 #### 平时练习  
 - HankRank <https://www.hackerrank.com/>  
 - Topcoder <https://www.topcoder.com/>  
-- GCJ <https://code.google.com/codejam/>  （需Gmail登录）
+- GCJ <https://code.google.com/codejam/>  （需Gmail登录）  
+- hihoCoder <https://hihocoder.com/>  
