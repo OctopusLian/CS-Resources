@@ -24,6 +24,9 @@
 #### OpenGL学习  
 - 欢迎来到OpenGL的世界 <https://learnopengl-cn.github.io/>  
 
+#### Mesa学习  
+- The Mesa 3D Graphics Library <https://www.mesa3d.org/>  
+
 #### Shader相关  
 - <https://www.shadertoy.com/>  
 - <https://thebookofshaders.com/>  
@@ -61,3 +64,4 @@
 - [实用的手机APP](https://github.com/OctopusLian/CS-Resources/tree/master/PhoneAPP)  
 - [编程语言编辑器](https://github.com/OctopusLian/CS-Resources/tree/master/Compiler)  
 - [书籍](https://github.com/OctopusLian/CS-Resources/tree/master/Book)  
+- [项目](https://github.com/OctopusLian/CS-Resources/tree/master/Project)  
