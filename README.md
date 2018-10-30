@@ -22,6 +22,8 @@
 - rastertek <http://www.rastertek.com/>  （DX10-11-12）  
 
 #### OpenGL学习  
+- 官网 <https://www.opengl.org/>  
+- Welcome to OpenGL <https://learnopengl.com/>  
 - 欢迎来到OpenGL的世界 <https://learnopengl-cn.github.io/>  
 
 #### Mesa学习  
