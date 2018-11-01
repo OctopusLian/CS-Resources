@@ -25,6 +25,7 @@
 - 官网 <https://www.opengl.org/>  
 - Welcome to OpenGL <https://learnopengl.com/>  
 - 欢迎来到OpenGL的世界 <https://learnopengl-cn.github.io/>  
+- opengl-tutorial <http://www.opengl-tutorial.org/>  
 
 #### Mesa学习  
 - The Mesa 3D Graphics Library <https://www.mesa3d.org/>  
