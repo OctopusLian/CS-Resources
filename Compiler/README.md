@@ -33,3 +33,6 @@
 - Qt编程指南 <https://qtguide.ustclug.org/contents.htm>  
 - Qt快速入门系列教程 <http://shouce.jb51.net/qt-beginning/>  
 - 官网 <https://www.qt.io/>  
+#### gdb  
+- <https://github.com/nixawk/bin-game/wiki>  
+- 用GDB调试程序 <http://wiki.ubuntu.org.cn/%E7%94%A8GDB%E8%B0%83%E8%AF%95%E7%A8%8B%E5%BA%8F>  

@@ -18,3 +18,4 @@
 - Topcoder <https://www.topcoder.com/>  
 - GCJ <https://code.google.com/codejam/>  （需Gmail登录）  
 - hihoCoder <https://hihocoder.com/>  
+- SPOJ <https://www.spoj.com/>  

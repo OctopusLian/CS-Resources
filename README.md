@@ -49,7 +49,7 @@
 
 #### 大佬博客和网站  
 - Demon·Gan 恶魔的世界<http://www.demongan.com/>（信息安全）  
-- 酷壳 左耳朵耗子 <https://coolshell.cn/>  
+- 左耳朵耗子 酷壳<https://coolshell.cn/>  <https://blog.csdn.net/haoel>
 - 陈立杰 <http://wjmzbmr.com/>  
 - 飞雪无情 <http://www.flysnow.org/>  
 - 当然我在扯淡 <http://www.yinwang.org/>  
