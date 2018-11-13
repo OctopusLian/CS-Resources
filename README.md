@@ -27,9 +27,6 @@
 - 欢迎来到OpenGL的世界 <https://learnopengl-cn.github.io/>  
 - opengl-tutorial <http://www.opengl-tutorial.org/>  
 
-#### Mesa学习  
-- The Mesa 3D Graphics Library <https://www.mesa3d.org/>  
-
 #### Shader相关  
 - <https://www.shadertoy.com/>  
 - <https://thebookofshaders.com/>  
@@ -37,6 +34,12 @@
 
 #### Linux学习  
 - <https://www.die.net/>  
+
+#### JSON学习  
+- <http://json.org/>  
+
+#### 前端学习  
+- <https://www.freecodecamp.org/>  
 
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
@@ -57,6 +60,9 @@
 - 雷霄骅 <https://blog.csdn.net/leixiaohua1020>（视音频编解码）  
 - Song Ho Ahn <http://www.songho.ca/>  
 - 阮一峰的网络日志 <http://www.ruanyifeng.com/blog/>  
+- 温国兵 <https://dbarobin.com/>（区块链）  
+- 云风 <https://blog.codingnow.com/>（游戏开发）  
+- 韦易笑 <http://www.skywind.me/blog/>（游戏开发）  
 
 #### 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)  
