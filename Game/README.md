@@ -5,6 +5,3 @@
 - CheckiO <https://checkio.org/>  
 - CodinGame <https://www.codingame.com/>  
 - Robocode<https://robocode.sourceforge.io/>  
-- TIS - 100 <https://store.steampowered.com/app/370360/TIS100/>  
-- Shenzhen I/O <https://store.steampowered.com/app/504210/SHENZHEN_IO/>  
-- Screeps <https://screeps.com/>  
