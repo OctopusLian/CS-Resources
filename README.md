@@ -64,9 +64,10 @@
 - 温国兵 <https://dbarobin.com/>（区块链）  
 - 云风 <https://blog.codingnow.com/>（游戏开发）  
 - 韦易笑 <http://www.skywind.me/blog/>（游戏开发）  
+- 崔庆才-静觅博主 <https://cuiqingcai.com/> （爬虫）  
 
 #### 传送门  
-- [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)  
+- [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)
 - [工作时用到](https://github.com/OctopusLian/CS-Resources/tree/master/Work)  
 - [玩游戏学编程](https://github.com/OctopusLian/CS-Resources/tree/master/Game)  
 - [框架学习](https://github.com/OctopusLian/CS-Resources/tree/master/Framework)  
