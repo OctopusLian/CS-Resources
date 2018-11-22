@@ -39,6 +39,7 @@
 #### 计算机图形学理论  
 - [计算机图形学OpenGL版](https://book.douban.com/subject/3561816/)  
 - [交互式计算机图形学](https://book.douban.com/subject/10777165/)  
+- [参考链接-什么是计算机图形学](http://staff.ustc.edu.cn/~lgliu/Resources/CG/What_is_CG.htm)  
 #### OpenGL学习  
 - OpenGL Programming Guide 9th Edition（推荐英文原版）  
 - [OpenGL超级宝典 第五版](https://book.douban.com/subject/5273949/)  

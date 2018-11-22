@@ -12,6 +12,12 @@
 #### Python语言学习  
 - Python之禅--大道至简 <http://www.pythontip.com/>  
 
+#### Lua语言学习  
+- 参考手册http://book.luaer.cn/  
+- 官方首页：http://www.lua.org/  
+- 官方文档：http://www.lua.org/docs.html  
+- Lua Tutorial：https://www.tutorialspoint.com/lua/  
+
 #### 数据结构与算法  
 - 动画展示各种路径搜索算法 <http://www.webhek.com/post/pathfinding.html>  
 - 数据结构和算法动态可视化 <https://visualgo.net/zh>  
