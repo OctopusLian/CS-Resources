@@ -61,9 +61,11 @@
 - [爱上单片机](https://book.douban.com/subject/6937742/)  
 #### 汇编语言学习  
 - [汇编语言_王爽](https://book.douban.com/subject/25726019/)  
-- [配套网站](http://www.asmedu.net/)
 #### 数学  
 - [什么是数学](https://book.douban.com/subject/10455982/)  
 - 普林斯顿微积分读本  
 - 程序员的数学系列  
 - 具体数学  
+#### 备注  
+- [CSAPP课后习题答案](https://dreamanddead.gitbooks.io/csapp-3e-solutions/)  
+- [汇编语言_王爽_配套网站](http://www.asmedu.net/)  
