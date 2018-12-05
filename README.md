@@ -1,7 +1,7 @@
 ﻿## 计算机学习资源汇总  
 记录我学习计算机相关技术遇到的很不错的网站  
 #### Go语言学习  
-- Go指南 <https://tour.go-zh.org/list>  
+- A Tour of Go <https://tour.golang.org/list>(EN)  <https://tour.go-zh.org/list>(CH)  
 - Go语言中文网 <https://studygolang.com/>  
 - Go语言圣经 <https://www.kancloud.cn/hartnett/gopl-zh/126045>  
 - Golang标准库文档 <https://studygolang.com/pkgdoc>  
