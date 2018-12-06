@@ -68,4 +68,5 @@
 - 具体数学  
 #### 备注  
 - [CSAPP课后习题答案](https://dreamanddead.gitbooks.io/csapp-3e-solutions/)  
+- [2015CMU 15-213 CSAPP 深入理解计算机系统 课程视频含英文字幕](https://www.bilibili.com/video/av24540152/)  
 - [汇编语言_王爽_配套网站](http://www.asmedu.net/)  
