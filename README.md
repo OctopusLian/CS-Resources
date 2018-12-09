@@ -5,6 +5,7 @@
 - Go语言中文网 <https://studygolang.com/>  
 - Go语言圣经 <https://www.kancloud.cn/hartnett/gopl-zh/126045>  
 - Golang标准库文档 <https://studygolang.com/pkgdoc>  
+- Go语言标准 <https://golang.org/ref/spec>  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
