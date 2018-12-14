@@ -1,4 +1,5 @@
 ## 不错的在线评测网站  
+题量统计网站 <https://new.npuacm.info/>  
 #### ACM  
 - VJ <https://vjudge.net/>（涵盖很多OJ）  
 - UVA <https://uva.onlinejudge.org/>  
@@ -19,3 +20,6 @@
 - GCJ <https://code.google.com/codejam/>  （需Gmail登录）  
 - hihoCoder <https://hihocoder.com/>  
 - SPOJ <https://www.spoj.com/>  
+#### 蓝桥杯相关  
+- ACMORE <https://acmore.cc/problem/#/source-%E8%93%9D%E6%A1%A5%E6%9D%AF/limit-20/offset-0>  
+- C语言网-蓝桥杯训练 <http://www.dotcpp.com/oj/problemset.php?mark=6>  

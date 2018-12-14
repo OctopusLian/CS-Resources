@@ -73,6 +73,8 @@
 - 云风 <https://blog.codingnow.com/>（游戏开发）  
 - 韦易笑 <http://www.skywind.me/blog/>（游戏开发）  
 - 崔庆才-静觅博主 <https://cuiqingcai.com/> （爬虫）  
+- 柳婼 <https://www.liuchuo.net/>  （算法竞赛）  
+- 技术小黑屋 <https://droidyue.com/>  （安卓开发）  
 
 #### 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)
