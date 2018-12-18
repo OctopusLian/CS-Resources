@@ -56,7 +56,7 @@
 - 跟阿铭学Linux（CentOS7.5）  
 #### 计算机网络  
 - 网络是怎样连接的  
-- [计算机网络：自顶向下方法](https://book.douban.com/subject/26176870/)  
+- Computer Networking: A Top-Down Approach Sixth Edition (计算机网络自顶向下英文版)  
 #### 单片机  
 - [爱上单片机](https://book.douban.com/subject/6937742/)  
 #### 汇编语言学习  
@@ -70,3 +70,4 @@
 - [CSAPP课后习题答案](https://dreamanddead.gitbooks.io/csapp-3e-solutions/)  
 - [2015CMU 15-213 CSAPP 深入理解计算机系统 课程视频含英文字幕](https://www.bilibili.com/video/av24540152/)  
 - [汇编语言_王爽_配套网站](http://www.asmedu.net/)  
+- [Computer Networking: A Top-Down Approach Sixth Edition](http://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)  
