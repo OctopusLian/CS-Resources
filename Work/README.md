@@ -18,3 +18,4 @@
 - GeoGebra 数学应用 <https://www.geogebra.org/>  
 #### 编程需要  
 - 程序员的工具箱 <https://tool.lu/>  
+- git操作 <https://git-scm.com/book/en/v2>
