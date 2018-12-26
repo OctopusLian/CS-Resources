@@ -76,6 +76,7 @@
 - 柳婼 <https://www.liuchuo.net/>  （算法竞赛）  
 - 技术小黑屋 <https://droidyue.com/>  （安卓开发）  
 - CyC2018 <https://github.com/CyC2018/CS-Notes>  (计算机科学基础，面向笔试面试)  
+- Vinjn <https://www.vinjn.com/> (图形图像)
 
 #### 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)
