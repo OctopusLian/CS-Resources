@@ -23,6 +23,10 @@
 - 动画展示各种路径搜索算法 <http://www.webhek.com/post/pathfinding.html>  
 - 数据结构和算法动态可视化 <https://visualgo.net/zh>  
 
+#### 数学相关  
+- 数立方 <http://mathcubic.org/>  
+- 哆嗒数学网 <http://www.duodaa.com/>  
+
 #### DirectX学习  
 - DirectX Tutorial <http://www.directxtutorial.com/>（需付费）   
 - DirectX SDK文档（需自行下载）  
@@ -47,6 +51,7 @@
 
 #### 前端学习  
 - <https://www.freecodecamp.org/>  
+- <https://github.com/smyhvae/Web>  
 
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
