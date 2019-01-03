@@ -1,10 +1,12 @@
 ## 书籍  
 我主要做图形图像，视音频编解码，算法和服务端方向，如果有其他领域的好书欢迎向我提PR或Issue  
 以下是我整理的各方向质量较好的参考书目，`书不在多，在于精与坚持思考和练习`。  
-#### 综合  
+#### 综合、经典  
 - 深入理解计算机系统（第3版）  
 - UNIX网络编程卷一二  
 - 计算机程序设计艺术-TAOCP  
+- [Structure and Interpretation
+of Computer Programs](https://sarabander.github.io/sicp/html/)  
 #### C/C++学习  
 - C Primer Plus（第五版）  
 - C++ Primer（第五版）  
@@ -71,3 +73,5 @@
 - [2015CMU 15-213 CSAPP 深入理解计算机系统 课程视频含英文字幕](https://www.bilibili.com/video/av24540152/)  
 - [汇编语言_王爽_配套网站](http://www.asmedu.net/)  
 - [Computer Networking: A Top-Down Approach Sixth Edition](http://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)  
+- [计算机程序的构造和解释 勘误表](http://www.math.pku.edu.cn/teachers/qiuzy/books/sicp/errata.htm)  
+- [梁杰-我如何用二十天刷完 SICP](http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/)  
