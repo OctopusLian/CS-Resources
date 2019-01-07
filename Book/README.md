@@ -23,7 +23,7 @@ of Computer Programs](https://sarabander.github.io/sicp/html/)
 - [Go程序设计语言](https://book.douban.com/subject/27044219/)  
 - Go并发编程实战  
 #### 数据结构与算法  
-- [Algorithms by Jeff Erickson 开源主页](http://jeffe.cs.illinois.edu/teaching/algorithms/)[单页版下载] (http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)[双页版下载](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE-2up.pdf)  
+- [Algorithms by Jeff Erickson 开源主页](http://jeffe.cs.illinois.edu/teaching/algorithms/)  [单页版下载] (http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)  [双页版下载](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE-2up.pdf)  
 - 算法第四版（Java语言实现）  
 - 算法导论  
 - 数据结构与算法分析  
