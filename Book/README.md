@@ -23,7 +23,9 @@ of Computer Programs](https://sarabander.github.io/sicp/html/)
 - [Go程序设计语言](https://book.douban.com/subject/27044219/)  
 - Go并发编程实战  
 #### 数据结构与算法  
-- [Algorithms by Jeff Erickson 开源主页](http://jeffe.cs.illinois.edu/teaching/algorithms/)  [单页版下载] (http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)  [双页版下载](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE-2up.pdf)  
+- [Algorithms by Jeff Erickson 开源主页](http://jeffe.cs.illinois.edu/teaching/algorithms/)  
+[单页版下载] (http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)  
+[双页版下载](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE-2up.pdf)  
 - 算法第四版（Java语言实现）  
 - 算法导论  
 - 数据结构与算法分析  
@@ -78,3 +80,7 @@ of Computer Programs](https://sarabander.github.io/sicp/html/)
 - [梁杰-我如何用二十天刷完 SICP](http://numbbbbb.com/2016/03/28/20160328_%E6%88%91%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%A4%E5%91%A8%E6%97%B6%E9%97%B4%E5%88%B7%E5%AE%8C%20SICP/)  
 - [Algorithms by Jeff Erickson 作业地址](http://jeffe.cs.illinois.edu/teaching/algorithms/hwex.html)  
 - [Algorithms by Jeff Erickson Github地址](https://github.com/jeffgerickson/algorithms)  
+
+## 实用的书籍下载网址  
+- <https://b-ok.cc/>  
+- <http://gen.lib.rus.ec/>
