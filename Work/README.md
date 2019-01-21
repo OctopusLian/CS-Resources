@@ -23,3 +23,6 @@
 - The X 在线工具箱 <https://the-x.cn/>  
 #### 平面设计  
 - 创客贴 <https://www.chuangkit.com/>  
+
+### 其他  
+- [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)
