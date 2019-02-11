@@ -52,13 +52,14 @@
 #### 前端学习  
 - <https://www.freecodecamp.org/>  
 - <https://github.com/smyhvae/Web>  
+- 现代 Javascript 教程 <https://zh.javascript.info/>
 
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
 - StackExchange <https://stackexchange.com/>  
 
 #### 实用的教程  
-- 菜鸟教程 <http://www.runoob.com/>  
+- 菜鸟教程 <http://www.runoob.com/>或<https://m.runoob.com/>  
 - W3cschool编程入门教程 <https://www.w3cschool.cn/tutorial>  
 - 实验楼 <https://www.shiyanlou.com/>  
 - 廖雪峰的官方网站 <https://www.liaoxuefeng.com/>  
