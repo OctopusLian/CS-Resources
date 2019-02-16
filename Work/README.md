@@ -33,5 +33,8 @@
 #### 平面设计  
 - 创客贴 <https://www.chuangkit.com/>  
 
+#### 图床  
+- <https://molunerfinn.com/picgo-v2.0-update/>  
+
 ### 其他  
 - [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)
