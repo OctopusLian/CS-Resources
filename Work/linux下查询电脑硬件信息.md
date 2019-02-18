@@ -22,4 +22,5 @@ dmidecode -t memory 查看运行内存的详细信息
 ```
 
 ## 详细的参考资料  
-[ubuntu下查看硬件配置-csdn](https://blog.csdn.net/chuanyu/article/details/46611793)
+[ubuntu下查看硬件配置-csdn](https://blog.csdn.net/chuanyu/article/details/46611793)  
+[Linux下查看内存使用情况方法总结-博客园-坠落鱼](https://www.cnblogs.com/zhuiluoyu/p/6154898.html)
