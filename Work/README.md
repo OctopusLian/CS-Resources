@@ -37,4 +37,5 @@
 - <https://molunerfinn.com/picgo-v2.0-update/>  
 
 ### 其他  
-- [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)
+- [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)  
+- [ASCII码对照表](http://ascii.911cha.com/)
