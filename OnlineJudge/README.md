@@ -30,4 +30,5 @@
 - C语言网-蓝桥杯训练 <http://www.dotcpp.com/oj/problemset.php?mark=6>  
 
 ### 备注  
-- [LeetCode最详细的解法](http://coordinate.wang/)
+- [LeetCode最详细的解法](http://coordinate.wang/)  
+- [LeetCode All in One 题目讲解汇总(持续更新中...)_ Grandyang](https://www.cnblogs.com/grandyang/p/4606334.html)  
