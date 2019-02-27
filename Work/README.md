@@ -38,6 +38,9 @@
 ## 图床  
 - <https://molunerfinn.com/picgo-v2.0-update/>  
 
+## 简历  
+- 简历格式筛查<https://cyc2018.github.io/Text-Typesetting/>  
+
 ## 相关文章  
 - [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)  
 - [ASCII码对照表](http://ascii.911cha.com/)
