@@ -6,6 +6,7 @@
 - Go语言圣经 <https://www.kancloud.cn/hartnett/gopl-zh/126045>  
 - Golang标准库文档 <https://studygolang.com/pkgdoc>  
 - Go语言标准 <https://golang.org/ref/spec>  
+- Go中国技术社区　<https://gocn.vip/>　　
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
@@ -86,6 +87,7 @@
 - 宣雨松 <https://www.xuanyusong.com/>  (Unity游戏开发)  
 - 鸟窝 <https://colobu.com/>  
 - 面向信仰编程 <https://draveness.me/>  
+- 源代码　<https://lrita.github.io/>  
 
 #### 面试  
 - [作为面试官，我是怎么快速判断程序员能力的？_王争](https://www.infoq.cn/article/how-to-judge-coding-ability)  
