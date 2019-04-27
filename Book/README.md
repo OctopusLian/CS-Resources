@@ -74,6 +74,7 @@
 
 #### Linux学习  
 - 跟阿铭学Linux（CentOS7.3）  
+- Linux Command Line and Shell Scripting Bible  
 
 #### 计算机网络  
 - 网络是怎样连接的  

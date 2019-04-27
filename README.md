@@ -7,6 +7,7 @@
 - Golang标准库文档 <https://studygolang.com/pkgdoc>  
 - Go语言标准 <https://golang.org/ref/spec>  
 - Go中国技术社区　<https://gocn.vip/>　　
+- Go by Example 中文 <https://books.studygolang.com/gobyexample/>  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
@@ -50,6 +51,9 @@
 
 #### JSON学习  
 - <http://json.org/>  
+
+#### Shell脚本学习  
+- Advanced Bash-Scripting Guide <http://tldp.org/LDP/abs/html/>  
 
 #### 前端学习  
 - <https://www.freecodecamp.org/>  
