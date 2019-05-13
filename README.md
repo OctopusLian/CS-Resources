@@ -55,6 +55,15 @@
 #### Shell脚本学习  
 - Advanced Bash-Scripting Guide <http://tldp.org/LDP/abs/html/>  
 
+#### Nginx学习  
+- [官方文档](https://nginx.org/en/docs/)  
+- [nginxconfig](https://nginxconfig.io/)  
+
+#### Consul学习  
+- [官方文档](https://www.consul.io/docs/index.html)  
+- [consul-GoDoc](https://godoc.org/github.com/segmentio/consul-go)  
+
+
 #### 前端学习  
 - <https://www.freecodecamp.org/>  
 - <https://github.com/smyhvae/Web>  
