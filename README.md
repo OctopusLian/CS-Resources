@@ -119,6 +119,7 @@
 - [编程语言编辑器](https://github.com/OctopusLian/CS-Resources/tree/master/Compiler)  
 - [书籍](https://github.com/OctopusLian/CS-Resources/tree/master/Book)  
 - [项目](https://github.com/OctopusLian/CS-Resources/tree/master/Project)  
+- [文章](https://github.com/OctopusLian/CS-Resources/tree/master/Article)  
 
 #### 打赏
 觉得有用可以打赏下，金额随意～  
