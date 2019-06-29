@@ -8,6 +8,7 @@
 - Go语言标准 <https://golang.org/ref/spec>  
 - Go中国技术社区　<https://gocn.vip/>　　
 - Go by Example 中文 <https://books.studygolang.com/gobyexample/>  
+- Go入门指南 <https://learnku.com/docs/the-way-to-go>  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
@@ -25,6 +26,7 @@
 #### 数据结构与算法  
 - 动画展示各种路径搜索算法 <http://www.webhek.com/post/pathfinding.html>  
 - 数据结构和算法动态可视化 <https://visualgo.net/zh>  
+- [go algorithms](https://yourbasic.org/algorithms/)  
 
 #### 数学相关  
 - 数立方 <http://mathcubic.org/>  

@@ -28,6 +28,7 @@
 - git操作 <https://git-scm.com/book/en/v2>  
 - json转go <https://mholt.github.io/json-to-go/>  
 - Unix时间戳转换 <https://unixtime.51240.com/>  
+- [xml,json,html等在线格式化工具](http://tool.oschina.net/codeformat/xml/)  
 
 ## 其他  
 - The X 在线工具箱 <https://the-x.cn/>  
@@ -42,6 +43,13 @@
 
 ## 简历  
 - 简历格式筛查<https://cyc2018.github.io/Text-Typesetting/>  
+
+## UML绘图  
+- [plantuml](http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000)  
+- [Visual Paradigm Essential](https://www.udemy.com/visual-paradigm-essential/)  
+- [planttext](https://www.planttext.com/)  
+- [staruml](http://staruml.io/)  
+- [staruml_docs](https://docs.staruml.io/)  
 
 ## 相关文章  
 - [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)  
