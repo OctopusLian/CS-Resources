@@ -27,6 +27,10 @@
 #### Go学习  
 - [Go程序设计语言](https://book.douban.com/subject/27044219/)  
 - Go并发编程实战  
+- [Concurrency in Go](https://book.douban.com/subject/26994591/)  
+
+#### 面向对象分析和设计  
+- [Object-Oriented Analysis and Design with Applications 3rd](https://book.douban.com/subject/2266843/)  
 
 #### 数据结构与算法  
 - [Algorithms by Jeff Erickson 开源主页](http://jeffe.cs.illinois.edu/teaching/algorithms/)  

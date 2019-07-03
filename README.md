@@ -70,7 +70,15 @@
 #### 前端学习  
 - <https://www.freecodecamp.org/>  
 - <https://github.com/smyhvae/Web>  
-- 现代 Javascript 教程 <https://zh.javascript.info/>
+- 现代 Javascript 教程 <https://zh.javascript.info/>  
+
+#### ffmpeg学习  
+- [ffmpeg_docs](https://ffmpeg.org/documentation.html)  
+
+#### CMake学习  
+- [CMake 入门实战](https://www.hahack.com/codes/cmake/)  
+- [cmake-tutorial](https://cmake.org/cmake-tutorial/)  
+
 
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
