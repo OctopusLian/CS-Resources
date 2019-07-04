@@ -79,6 +79,10 @@
 - [CMake 入门实战](https://www.hahack.com/codes/cmake/)  
 - [cmake-tutorial](https://cmake.org/cmake-tutorial/)  
 
+#### Git学习  
+- [Git分支](https://learngitbranching.js.org/?NODEMO)  
+- [Try Git](https://try.github.io/)  
+- [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)  
 
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
