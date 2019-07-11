@@ -51,6 +51,18 @@
 - [staruml](http://staruml.io/)  
 - [staruml_docs](https://docs.staruml.io/)  
 
+## 浏览器插件  
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
+- [Stylus](https://add0n.com/stylus.html)  
+- [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  
+- [Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh)  
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)   
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN)  
+- [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn)   
+- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)  
+- [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)  
+- [TOBY](http://www.gettoby.com/)  
+
 ## 相关文章  
 - [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)  
 - [ASCII码对照表](http://ascii.911cha.com/)

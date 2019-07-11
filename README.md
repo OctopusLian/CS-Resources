@@ -9,6 +9,8 @@
 - Go中国技术社区　<https://gocn.vip/>　　
 - Go by Example 中文 <https://books.studygolang.com/gobyexample/>  
 - Go入门指南 <https://learnku.com/docs/the-way-to-go>  
+- [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)  
+- []()
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
@@ -84,6 +86,9 @@
 - [Try Git](https://try.github.io/)  
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)  
 
+#### 设计模式学习  
+- [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)  
+
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
 - StackExchange <https://stackexchange.com/>  
@@ -121,6 +126,7 @@
 - 行者无疆，始于足下 <http://xiaohanyu.me/>  
 - 一人得道 <http://blog.riguz.com/>  
 - 刘未鹏 Mind Hacks <http://mindhacks.cn/>  
+- 谢益辉 <https://yihui.name/>  
 
 #### 面试  
 - [作为面试官，我是怎么快速判断程序员能力的？_王争](https://www.infoq.cn/article/how-to-judge-coding-ability)  
