@@ -93,6 +93,24 @@
 - [play-with-k8s](https://labs.play-with-k8s.com/)  
 - [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)  
 
+#### PHP学习  
+- [PHP手册-中文](https://www.php.net/manual/zh/)  
+- [PHP Manual](https://www.php.net/manual/en/)  
+
+#### Rust学习  
+1.刚开始建议跟着官方教程走一遍：  
+<https://kaisery.github.io/trpl-zh-cn/ch01-01-installation.html>  
+
+2.之后，是社区里有一些资料：  
+<https://rustlang-cn.org/office/rust/advrust/>  
+
+3.这是其他的类似于基本操作的。  
+<https://rustwiki.org/zh-CN/rust-by-example/index.html>  
+
+4.遇见很多不知道的在这里大部分都能找到。包括语法，函数等  
+<https://doc.rust-lang.org/stable/std/slice/index.html?search=len>  
+
+
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
 - StackExchange <https://stackexchange.com/>  
