@@ -110,6 +110,7 @@
 4.遇见很多不知道的在这里大部分都能找到。包括语法，函数等  
 <https://doc.rust-lang.org/stable/std/slice/index.html?search=len>  
 
+- [学习Rust](https://www.rust-lang.org/zh-CN/learn)  
 
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
