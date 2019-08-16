@@ -115,6 +115,7 @@
 #### 问答  
 - Stackoverflow <https://stackoverflow.com/>  
 - StackExchange <https://stackexchange.com/>  
+- [终身学习者的知识社区](https://learnku.com/)  
 
 #### 实用的教程  
 - 菜鸟教程 <http://www.runoob.com/>或<https://m.runoob.com/>  
