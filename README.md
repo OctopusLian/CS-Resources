@@ -167,6 +167,7 @@
 - [书籍](https://github.com/OctopusLian/CS-Resources/tree/master/Book)  
 - [项目](https://github.com/OctopusLian/CS-Resources/tree/master/Project)  
 - [文章](https://github.com/OctopusLian/CS-Resources/tree/master/Article)  
+- [课程](https://github.com/OctopusLian/CS-Resources/tree/master/Courses)  
 
 #### 打赏
 觉得有用可以打赏下，金额随意～  
