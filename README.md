@@ -1,5 +1,6 @@
 ﻿## 计算机学习资源汇总  
 记录我学习计算机相关技术遇到的很不错的网站  
+
 #### Go语言学习  
 - A Tour of Go <https://tour.golang.org/list>(EN)  <https://tour.go-zh.org/list>(CH)  
 - Go语言中文网 <https://studygolang.com/>  
@@ -10,6 +11,7 @@
 - Go by Example 中文 <https://books.studygolang.com/gobyexample/>  
 - Go入门指南 <https://learnku.com/docs/the-way-to-go>  
 - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)  
+- [GOLANG笔记](https://golangnote.com)  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
