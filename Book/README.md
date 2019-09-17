@@ -86,8 +86,11 @@
 
 #### 操作系统  
 - [Operating Systems Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
-- 操作系统真象还原  
 - Modern Operating Systems  
+- Operating System Concepts  
+- 操作系统真象还原_作者郑钢  
+- 一个64位操作系统的设计与实现_作者田宇  
+- Orange'S 一个操作系统的实现_作者于渊  
 
 #### 单片机  
 - [爱上单片机](https://book.douban.com/subject/6937742/)  
@@ -123,6 +126,8 @@
 - [Algorithms by Jeff Erickson 作业地址](http://jeffe.cs.illinois.edu/teaching/algorithms/hwex.html)  
 - [Algorithms by Jeff Erickson Github地址](https://github.com/jeffgerickson/algorithms)  
 - [coursera-algorithms-part1](https://www.coursera.org/learn/algorithms-part1)  
+- [算法第四版数据](https://algs4.cs.princeton.edu/code/)  
+- [算法第四版勘误表](https://littlemujiang.github.io/2019/01/11/suanfa4/)  
 
 ## 实用的书籍下载网址  
 - <https://b-ok.cc/>  

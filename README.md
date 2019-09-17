@@ -12,6 +12,7 @@
 - Go入门指南 <https://learnku.com/docs/the-way-to-go>  
 - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)  
 - [GOLANG笔记](https://golangnote.com)  
+- [Go语言中文网博客](http://blog.studygolang.com/)  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
