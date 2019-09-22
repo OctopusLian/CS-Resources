@@ -133,4 +133,5 @@
 - <https://b-ok.cc/>  
 - <http://gen.lib.rus.ec/>  
 - <https://salttiger.com/>  
-- <https://www.readallbooks.net/>
+- <https://www.readallbooks.net/>  
+- <http://www.86clouds.com/>  
