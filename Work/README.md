@@ -65,4 +65,8 @@
 
 ## 相关文章  
 - [eoiioe_linux下解压命令大全](https://www.cnblogs.com/eoiioe/archive/2008/09/20/1294681.html)  
-- [ASCII码对照表](http://ascii.911cha.com/)
+- [ASCII码对照表](http://ascii.911cha.com/)  
+
+## Youtube视频下载  
+- [findyoutube.net]()  
+- [怎么下载YouTube上1080p的视频?_知乎](https://www.zhihu.com/question/61424741)
