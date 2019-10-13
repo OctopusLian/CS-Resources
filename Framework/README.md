@@ -9,3 +9,7 @@
 
 ## 搭建博客  
 - Hexo <https://hexo.io/>  
+- [NexT](http://theme-next.iissnan.com/)  
+
+### Hexo好看的主题  
+- [有哪些好看的 Hexo 主题？_知乎](https://www.zhihu.com/question/24422335)  
