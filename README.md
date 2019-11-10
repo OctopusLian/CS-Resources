@@ -61,6 +61,9 @@
 #### Shell脚本学习  
 - Advanced Bash-Scripting Guide <http://tldp.org/LDP/abs/html/>  
 
+#### 正则表达式学习  
+- <http://www.hankcs.com/>  
+
 #### Nginx学习  
 - [官方文档](https://nginx.org/en/docs/)  
 - [nginxconfig](https://nginxconfig.io/)  
@@ -154,6 +157,7 @@
 - 一人得道 <http://blog.riguz.com/>  
 - 刘未鹏 Mind Hacks <http://mindhacks.cn/>  
 - 谢益辉 <https://yihui.name/>  
+- 码农场 <http://www.hankcs.com/>  
 
 #### 面试  
 - [作为面试官，我是怎么快速判断程序员能力的？_王争](https://www.infoq.cn/article/how-to-judge-coding-ability)  
