@@ -69,4 +69,10 @@
 
 ## Youtube视频下载  
 - [findyoutube.net]()  
-- [怎么下载YouTube上1080p的视频?_知乎](https://www.zhihu.com/question/61424741)
+- [怎么下载YouTube上1080p的视频?_知乎](https://www.zhihu.com/question/61424741)  
+
+## 视频互动直播分享  
+- zoom  
+- [whereby](https://whereby.com/)  
+- 小鹅通  
+- 钉钉直播  
