@@ -34,6 +34,7 @@
 - The X 在线工具箱 <https://the-x.cn/>  
 - 做背景图：<https://coolbackgrounds.io/>  
 - 简历制作：超级简历 <https://www.wondercv.com/>  
+- 对比信息 <https://versus.com/cn>  
 
 ## 平面设计  
 - 创客贴 <https://www.chuangkit.com/>  

@@ -1,5 +1,6 @@
-﻿## 计算机学习资源汇总  
-记录我学习计算机相关技术遇到的很不错的网站  
+﻿# 计算机学习资源汇总  
+
+记录我学习计算机相关技术遇到的很不错的网站和资源。  
 
 #### Go语言学习  
 - A Tour of Go <https://tour.golang.org/list>(EN)  <https://tour.go-zh.org/list>(CH)  
@@ -17,6 +18,7 @@
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
 - [cppreference](https://en.cppreference.com/w/)  
+- [B站_最好的C++教程](https://www.bilibili.com/video/BV1VJ411M7WR)  
 
 #### Python语言学习  
 - Python之禅--大道至简 <http://www.pythontip.com/>  
@@ -60,6 +62,7 @@
 
 #### Shell脚本学习  
 - Advanced Bash-Scripting Guide <http://tldp.org/LDP/abs/html/>  
+- [The Linux Command Line 中文版](https://www.kancloud.cn/thinkphp/linux-command-line/39431)  
 
 #### 正则表达式学习  
 - <http://www.hankcs.com/>  
@@ -158,9 +161,6 @@
 - 刘未鹏 Mind Hacks <http://mindhacks.cn/>  
 - 谢益辉 <https://yihui.name/>  
 - 码农场 <http://www.hankcs.com/>  
-
-#### 面试  
-- [作为面试官，我是怎么快速判断程序员能力的？_王争](https://www.infoq.cn/article/how-to-judge-coding-ability)  
 
 #### 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)

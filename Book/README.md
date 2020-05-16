@@ -91,6 +91,7 @@
 - 操作系统真象还原_作者郑钢  
 - 一个64位操作系统的设计与实现_作者田宇  
 - Orange'S 一个操作系统的实现_作者于渊  
+- [程序员的自我修养——链接、装载和库](https://book.douban.com/subject/3652388/)  
 
 #### 单片机  
 - [爱上单片机](https://book.douban.com/subject/6937742/)  
@@ -115,6 +116,9 @@
 #### 架构  
 - [Software Architecture Patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)  
 - [架构师之路](https://www.w3cschool.cn/architectroad/)  
+
+#### 游戏开发  
+- [游戏开发：世嘉新人培训教材](https://book.douban.com/subject/34996720/)  
 
 #### 备注  
 - [CSAPP课后习题答案](https://dreamanddead.gitbooks.io/csapp-3e-solutions/)  
