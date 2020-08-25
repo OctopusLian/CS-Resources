@@ -9,6 +9,7 @@
 - [nmod.net](https://www.nmod.net/)  
 - [请看小说网](https://www.qinkan.net/)  
 - [亚马逊免费Kindle电子书](https://www.amazon.cn/b/ref=s9_acss_bw_h1_CNKCD_md3_w?node=116175071&pf_rd_m=A1U5RCOVU0NYF2&pf_rd_s=merchandised-search-top-2&pf_rd_r=AS20NHRFBCM47C50G344&pf_rd_t=101&pf_rd_p=ae8974e9-e726-40aa-b136-05ea452ced59&pf_rd_i=116169071)  
+- [爱悦读](https://www.iyd.wang/)  
 
 ## 电子书格式转换  
 

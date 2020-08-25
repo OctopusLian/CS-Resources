@@ -14,6 +14,7 @@
 - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)  
 - [GOLANG笔记](https://golangnote.com)  
 - [Go语言中文网博客](http://blog.studygolang.com/)  
+- [Go 语言设计与实现](https://draveness.me/golang/)  
 
 #### C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
@@ -175,7 +176,8 @@
 - [项目](https://github.com/OctopusLian/CS-Resources/tree/master/Project)  
 - [文章](https://github.com/OctopusLian/CS-Resources/tree/master/Article)  
 - [课程](https://github.com/OctopusLian/CS-Resources/tree/master/Courses)  
-- [Kindle](https://github.com/OctopusLian/CS-Resources/tree/master/Kindle)
+- [Kindle](https://github.com/OctopusLian/CS-Resources/tree/master/Kindle)  
+- [iPad](https://github.com/OctopusLian/CS-Resources/tree/master/iPad)  
 
 #### 打赏
 觉得有用可以打赏下，金额随意～  

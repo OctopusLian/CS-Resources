@@ -134,7 +134,7 @@
 - [算法第四版勘误表](https://littlemujiang.github.io/2019/01/11/suanfa4/)  
 
 ## 实用的书籍下载网址  
-- <https://b-ok.cc/>  
+- <https://book4you.org/>  
 - <http://gen.lib.rus.ec/>  
 - <https://salttiger.com/>  
 - <https://www.readallbooks.net/>  
