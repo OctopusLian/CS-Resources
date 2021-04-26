@@ -2,7 +2,7 @@
 
 记录我学习计算机相关技术遇到的很不错的网站和资源。  
 
-#### Go语言学习  
+## Go语言学习  
 - A Tour of Go <https://tour.golang.org/list>(EN)  <https://tour.go-zh.org/list>(CH)  
 - Go语言中文网 <https://studygolang.com/>  
 - Go语言圣经 <https://www.kancloud.cn/hartnett/gopl-zh/126045>  
@@ -16,98 +16,98 @@
 - [Go语言中文网博客](http://blog.studygolang.com/)  
 - [Go 语言设计与实现](https://draveness.me/golang/)  
 
-#### C/C++语言学习  
+## C/C++语言学习  
 - cplusplus <http://www.cplusplus.com/>  
 - [cppreference](https://en.cppreference.com/w/)  
 - [B站_最好的C++教程](https://www.bilibili.com/video/BV1VJ411M7WR)  
 
-#### Python语言学习  
+## Python语言学习  
 - Python之禅--大道至简 <http://www.pythontip.com/>  
 
-#### Lua语言学习  
+## Lua语言学习  
 - 参考手册http://book.luaer.cn/  
 - 官方首页：http://www.lua.org/  
 - 官方文档：http://www.lua.org/docs.html  
 - Lua Tutorial：https://www.tutorialspoint.com/lua/  
 
-#### 数据结构与算法  
+## 数据结构与算法  
 - 动画展示各种路径搜索算法 <http://www.webhek.com/post/pathfinding.html>  
 - 数据结构和算法动态可视化 <https://visualgo.net/zh>  
 - [go algorithms](https://yourbasic.org/algorithms/)  
 
-#### 数学相关  
+## 数学相关  
 - 数立方 <http://mathcubic.org/>  
 - 哆嗒数学网 <http://www.duodaa.com/>  
 
-#### DirectX学习  
+## DirectX学习  
 - DirectX Tutorial <http://www.directxtutorial.com/>（需付费）   
 - DirectX SDK文档（需自行下载）  
 - rastertek <http://www.rastertek.com/>  （DX10-11-12）  
 
-#### OpenGL学习  
+## OpenGL学习  
 - 官网 <https://www.opengl.org/>  
 - Welcome to OpenGL <https://learnopengl.com/>  
 - 欢迎来到OpenGL的世界 <https://learnopengl-cn.github.io/>  
 - opengl-tutorial <http://www.opengl-tutorial.org/>  
 
-#### Shader相关  
+## Shader相关  
 - <https://www.shadertoy.com/>  
 - <https://thebookofshaders.com/>  
 - The Book of Shaders <https://thebookofshaders.com/>  
 
-#### Linux学习  
+## Linux学习  
 - <https://www.die.net/>  
 
-#### JSON学习  
+## JSON学习  
 - <http://json.org/>  
 
-#### Shell脚本学习  
+## Shell脚本学习  
 - Advanced Bash-Scripting Guide <http://tldp.org/LDP/abs/html/>  
 - [The Linux Command Line 中文版](https://www.kancloud.cn/thinkphp/linux-command-line/39431)  
 
-#### 正则表达式学习  
+## 正则表达式学习  
 - <http://www.hankcs.com/>  
 
-#### Nginx学习  
+## Nginx学习  
 - [官方文档](https://nginx.org/en/docs/)  
 - [nginxconfig](https://nginxconfig.io/)  
 
-#### Consul学习  
+## Consul学习  
 - [官方文档](https://www.consul.io/docs/index.html)  
 - [consul-GoDoc](https://godoc.org/github.com/segmentio/consul-go)  
 - [consul教程_hashicorp](https://learn.hashicorp.com/consul/#getting-started)  
 
 
-#### 前端学习  
+## 前端学习  
 - <https://www.freecodecamp.org/>  
 - <https://github.com/smyhvae/Web>  
 - 现代 Javascript 教程 <https://zh.javascript.info/>  
 
-#### ffmpeg学习  
+## ffmpeg学习  
 - [ffmpeg_docs](https://ffmpeg.org/documentation.html)  
 
-#### CMake学习  
+## CMake学习  
 - [CMake 入门实战](https://www.hahack.com/codes/cmake/)  
 - [cmake-tutorial](https://cmake.org/cmake-tutorial/)  
 
-#### Git学习  
+## Git学习  
 - [Git分支](https://learngitbranching.js.org/?NODEMO)  
 - [Try Git](https://try.github.io/)  
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)  
 
-#### 设计模式学习  
+## 设计模式学习  
 - [图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html)  
 
-#### Docker和K8s学习  
+## Docker和K8s学习  
 - [play-with-docker](https://labs.play-with-docker.com/)  
 - [play-with-k8s](https://labs.play-with-k8s.com/)  
 - [Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)  
 
-#### PHP学习  
+## PHP学习  
 - [PHP手册-中文](https://www.php.net/manual/zh/)  
 - [PHP Manual](https://www.php.net/manual/en/)  
 
-#### Rust学习  
+## Rust学习  
 1.刚开始建议跟着官方教程走一遍：  
 <https://kaisery.github.io/trpl-zh-cn/ch01-01-installation.html>  
 
@@ -122,20 +122,21 @@
 
 - [学习Rust](https://www.rust-lang.org/zh-CN/learn)  
 
-#### 问答  
+## 问答  
 - Stackoverflow <https://stackoverflow.com/>  
 - StackExchange <https://stackexchange.com/>  
 - [终身学习者的知识社区](https://learnku.com/)  
 
-#### 实用的教程  
+## 实用的教程  
 - 菜鸟教程 <http://www.runoob.com/>或<https://m.runoob.com/>  
 - W3cschool编程入门教程 <https://www.w3cschool.cn/tutorial>  
 - 实验楼 <https://www.shiyanlou.com/>  
+- 蓝桥云课 <https://www.lanqiao.cn/>  
 - 廖雪峰的官方网站 <https://www.liaoxuefeng.com/>  
 - Write-Bug技术共享平台 <https://write-bug.com/>  
 - Coursera <https://www.coursera.org/>  
 
-#### 大佬博客和网站  
+## 大佬博客和网站  
 - Demon·Gan 恶魔的世界<http://www.demongan.com/>（信息安全）  
 - 左耳朵耗子 酷壳<https://coolshell.cn/>  <https://blog.csdn.net/haoel>
 - 陈立杰 <http://wjmzbmr.com/>  
@@ -163,7 +164,7 @@
 - 谢益辉 <https://yihui.name/>  
 - 码农场 <http://www.hankcs.com/>  
 
-#### 传送门  
+## 传送门  
 - [在线评测系统](https://github.com/OctopusLian/CS-Resources/tree/master/OnlineJudge)
 - [工作时用到](https://github.com/OctopusLian/CS-Resources/tree/master/Work)  
 - [玩游戏学编程](https://github.com/OctopusLian/CS-Resources/tree/master/Game)  
@@ -179,7 +180,7 @@
 - [Kindle](https://github.com/OctopusLian/CS-Resources/tree/master/Kindle)  
 - [iPad](https://github.com/OctopusLian/CS-Resources/tree/master/iPad)  
 
-#### 打赏
+## 打赏
 觉得有用可以打赏下，金额随意～  
 ![支付宝打赏](https://github.com/OctopusLian/CS-Resources/blob/master/Image/zhifubao.bmp)  
 ![微信打赏](https://github.com/OctopusLian/CS-Resources/blob/master/Image/weixin.png)  
