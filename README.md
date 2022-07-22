@@ -20,6 +20,7 @@
 - cplusplus <http://www.cplusplus.com/>  
 - [cppreference](https://en.cppreference.com/w/)  
 - [B站_最好的C++教程](https://www.bilibili.com/video/BV1VJ411M7WR)  
+- [初学者 Python 教程](https://www.scaler.com/topics/python)
 
 ## Python语言学习  
 - Python之禅--大道至简 <http://www.pythontip.com/>  
